@@ -1,0 +1,4 @@
+# variant_id,subsystem_id,subsystem_name,subsystem_probability,route_id,route_probability,step_sequence
+1,1,Подтема 1,0.6,1,0.7,"1 2 3"
+1,1,Подтема 1,0.6,2,0.3,"1 4 5"
+1,2,Подтема 2,0.4,1,1.0,"1 2 6"
